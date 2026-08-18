@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,email,phone_number,gender,department,job_title,salary,hire_date,city,age
+1,Aldi,Pratama,aldi.pratama@technova.com,08210433218,Male,Operations,Operations Staff,6150000,2018-04-13,Surabaya,29
+2,Nanda,Putri,nanda.putri@technova.com,0812600133890,Female,Sales,Sales Representative,5150000,2024-04-17,Medan,25
+3,Lestari,Rahma,lestari.rahma@technova.com,08788637940,Female,HR,HR Staff,6300000,2019-01-15,Bandung,28
+4,Joko,Setiawan,joko.setiawan@technova.com,0813654235116,Male,Operations,Operations Coordinator,7150000,2024-06-22,Bandung,27
+5,Hendra,Kurniawan,hendra.kurniawan@technova.com,081259407816,Male,HR,Recruiter,6650000,2020-12-29,Jakarta,27
+6,Indra,Hidayat,indra.hidayat@technova.com,0812495931034,Male,HR,HR Supervisor,10500000,2021-01-01,Surabaya,33
+7,Eko,Sutrisno,eko.sutrisno@technova.com,08121647525,Male,HR,HR Supervisor,10350000,2024-07-18,Bandung,29
+8,Indra,Nugroho,indra.nugroho@technova.com,08194192832,Male,Marketing,Marketing Supervisor,10600000,2023-12-08,Medan,35
+9,Rizky,Wijaya,rizky.wijaya@technova.com,085348350305,Male,Operations,Operations Coordinator,7300000,2023-08-13,Semarang,25
+10,Yanti,Puspita,yanti.puspita@technova.com,085213953767,Female,HR,HR Supervisor,10950000,2018-03-21,Yogyakarta,32
+11,Aldi,Santoso,aldi.santoso@technova.com,081323884969,Male,Marketing,Content Specialist,7150000,2020-12-21,Jakarta,27
+12,Aldi,Nugroho,aldi.nugroho@technova.com,085232871012,Male,HR,HR Staff,5350000,2024-08-06,Jakarta,29
+13,Putri,Hayati,putri.hayati@technova.com,08216916697,Female,Sales,Sales Executive,6550000,2024-05-27,Yogyakarta,23
+14,Eko,Prabowo,eko.prabowo@technova.com,087880184514,Male,Operations,Operations Staff,6250000,2018-09-06,Jakarta,29
+15,Dimas,Wibowo,dimas.wibowo@technova.com,08527048281,Male,Marketing,Marketing Staff,6150000,2018-07-27,Jakarta,29
+16,Aditya,Santoso,aditya.santoso@technova.com,082189325288,Male,Marketing,Digital Marketing Specialist,8250000,2022-09-29,Surabaya,26
+17,Agus,Saputra,agus.saputra@technova.com,0811570154303,Male,Sales,Sales Executive,7150000,2018-08-21,Jakarta,29
+18,Agus,Sutrisno,agus.sutrisno@technova.com,08961718227,Male,Marketing,Digital Marketing Specialist,8350000,2020-12-04,Jakarta,28
+19,Gita,Larasati,gita.larasati@technova.com,08784896383,Female,IT,System Administrator,8650000,2020-05-23,Jakarta,29
+20,Nanda,Hayati,nanda.hayati@technova.com,081857871331,Female,Operations,Operations Coordinator,6900000,2025-06-10,Surabaya,31
+21,Siti,Larasati,siti.larasati@technova.com,08199839301,Female,Marketing,Digital Marketing Specialist,8550000,2018-07-28,Jakarta,29
+22,Dimas,Putra,dimas.putra@technova.com,08213105183,Male,IT,Database Administrator,9800000,2019-09-03,Yogyakarta,29
+23,Hendra,Hidayat,hendra.hidayat@technova.com,0818738299737,Male,IT,Software Engineer,8550000,2024-04-12,Yogyakarta,24
+24,Rafi,Santoso,rafi.santoso@technova.com,08521165667,Male,IT,Senior Software Engineer,11750000,2018-06-08,Jakarta,34
+25,Kartika,Maharani,kartika.maharani@technova.com,0811106513338,Female,HR,HR Specialist,7200000,2025-03-12,Medan,25
+26,Indra,Santoso,indra.santoso@technova.com,08536247317,Male,HR,HR Supervisor,10050000,2024-10-19,Yogyakarta,31
+27,Budi,Budiman,budi.budiman@technova.com,08780801326,Male,HR,HR Specialist,6900000,2025-06-10,Semarang,23
+28,Fitri,Utami,fitri.utami@technova.com,085336026064,Female,Sales,Senior Sales Executive,8850000,2022-07-22,Medan,32
+29,Dedi,Kurniawan,dedi.kurniawan@technova.com,085368723430,Male,Finance,Accounting Staff,6200000,2021-03-08,Surabaya,28
+30,Reza,Kurniawan,reza.kurniawan@technova.com,0896805009788,Male,Marketing,Content Specialist,6850000,2022-04-22,Jakarta,27
+31,Indra,Hidayat,indra.hidayat2@technova.com,08138121913,Male,Marketing,Content Specialist,6600000,2023-03-19,Medan,26
+32,Mega,Puspita,mega.puspita@technova.com,08529399091,Female,Sales,Sales Supervisor,10000000,2025-01-11,Bandung,29
+33,Indah,Putri,indah.putri@technova.com,0852998543534,Female,Operations,Logistics Staff,6150000,2020-05-26,Bandung,27
+34,Yanti,Sari,yanti.sari@technova.com,08524751079,Female,Marketing,Marketing Staff,5900000,2021-12-11,Bandung,26
+35,Aditya,Saputra,aditya.saputra@technova.com,08961838425,Male,Operations,Operations Supervisor,10900000,2019-11-08,Jakarta,36
+36,Nanda,Lestari,nanda.lestari@technova.com,08125427849,Female,HR,HR Supervisor,10600000,2021-09-02,Jakarta,31
+37,Bambang,Setiawan,bambang.setiawan@technova.com,0821084124118,Male,Operations,Operations Staff,4900000,2025-04-23,Yogyakarta,29
+38,Mega,Putri,mega.putri@technova.com,081349353487,Female,HR,HR Specialist,7800000,2019-11-19,Jakarta,29
+39,Nanda,Permana,nanda.permana@technova.com,08181640052,Female,Operations,Operations Coordinator,7050000,2024-09-25,Bandung,29
+40,Indra,Wibowo,indra.wibowo@technova.com,082127868011,Male,Operations,Operations Supervisor,10900000,2019-09-19,Jakarta,34
+41,Rina,Permana,rina.permana@technova.com,0813059826204,Female,HR,HR Supervisor,10950000,2020-09-25,Yogyakarta,35
+42,Gilang,Saputra,gilang.saputra@technova.com,08195331586,Male,HR,HR Staff,5500000,2023-10-18,Jakarta,29
+43,Aldi,Gunawan,aldi.gunawan@technova.com,0896232260256,Male,Marketing,Content Specialist,6900000,2021-06-08,Jakarta,27
+44,Joko,Kurniawan,joko.kurniawan@technova.com,0821342160733,Male,Operations,Logistics Staff,6000000,2021-07-16,Jakarta,26
+45,Eko,Hakim,eko.hakim@technova.com,085343303654,Male,HR,Recruiter,6500000,2021-05-23,Surabaya,27
+46,Mega,Rahma,mega.rahma@technova.com,081258685014,Female,Marketing,Marketing Supervisor,10800000,2021-10-27,Semarang,35
+47,Lestari,Hayati,lestari.hayati@technova.com,0813401965569,Female,HR,HR Staff,5850000,2020-10-13,Bandung,27
+48,Dedi,Prabowo,dedi.prabowo@technova.com,08786934060,Male,Sales,Sales Representative,5050000,2024-11-02,Yogyakarta,30
+49,Mega,Larasati,mega.larasati@technova.com,0878356159514,Female,Sales,Sales Supervisor,10500000,2021-04-07,Jakarta,29
+50,Hendra,Santoso,hendra.santoso@technova.com,087865648236,Male,Operations,Logistics Staff,6250000,2020-12-24,Surabaya,27
+51,Sari,Wulandari,sari.wulandari@technova.com,082129946804,Female,Sales,Sales Supervisor,10350000,2022-11-29,Semarang,36
+52,Diah,Putri,diah.putri@technova.com,08186995777,Female,IT,Data Analyst,9600000,2019-12-19,Bandung,28
+53,Nanda,Larasati,nanda.larasati@technova.com,08218721489,Female,Operations,Operations Staff,6000000,2019-10-21,Surabaya,28
+54,Eko,Sutrisno,eko.sutrisno2@technova.com,08193433200,Male,IT,Database Administrator,9350000,2024-02-01,Bandung,24
+55,Aditya,Kurniawan,aditya.kurniawan@technova.com,081791769367,Male,Marketing,Marketing Supervisor,11000000,2019-05-13,Surabaya,36
+56,Intan,Lestari,intan.lestari@technova.com,08522016328,Female,Operations,Operations Coordinator,7400000,2023-09-16,Bandung,24
+57,Citra,Permana,citra.permana@technova.com,08538317278,Female,Marketing,Digital Marketing Specialist,8000000,2023-09-11,Semarang,24
+58,Andi,Hakim,andi.hakim@technova.com,0878579868727,Male,Sales,Sales Supervisor,10400000,2023-02-09,Jakarta,34
+59,Joko,Nugroho,joko.nugroho@technova.com,085334873471,Male,Finance,Financial Analyst,9100000,2019-02-16,Yogyakarta,28
+60,Nanda,Sari,nanda.sari@technova.com,08184558122,Female,Marketing,Marketing Staff,6000000,2021-09-07,Medan,29
+61,Agus,Saputra,agus.saputra2@technova.com,081723166587,Male,Operations,Operations Staff,5450000,2022-12-23,Semarang,25
+62,Yoga,Santoso,yoga.santoso@technova.com,08523669096,Male,Operations,Logistics Staff,6400000,2019-11-28,Jakarta,29
+63,Eko,Nugroho,eko.nugroho@technova.com,08535466889,Male,Operations,Operations Staff,5400000,2023-03-21,Surabaya,24
+64,Nanda,Sari,nanda.sari2@technova.com,081734670656,Female,IT,Junior Software Engineer,7550000,2022-04-12,Bandung,25
+65,Bambang,Hidayat,bambang.hidayat@technova.com,081329806990,Male,Finance,Accountant,7250000,2024-12-18,Medan,28
+66,Nadia,Lestari,nadia.lestari@technova.com,0812627204653,Female,Marketing,Content Specialist,6950000,2020-04-02,Jakarta,27
+67,Eka,Sari,eka.sari@technova.com,085356464170,Female,Finance,Finance Supervisor,11250000,2024-04-01,Yogyakarta,30
+68,Aldi,Nugroho,aldi.nugroho2@technova.com,08785310033,Male,Finance,Finance Supervisor,12150000,2018-04-13,Jakarta,36
+69,Gilang,Santoso,gilang.santoso@technova.com,0811232719374,Male,Finance,Accountant,7650000,2022-05-11,Jakarta,26
+70,Kartika,Maharani,kartika.maharani2@technova.com,08199912419,Female,Marketing,Marketing Supervisor,11050000,2020-08-25,Jakarta,34
+71,Bambang,Budiman,bambang.budiman@technova.com,081196631931,Male,IT,Data Analyst,9100000,2021-09-28,Bandung,28
+72,Eko,Putra,eko.putra@technova.com,0818919058651,Male,Finance,Accountant,7250000,2024-01-22,Jakarta,23
+73,Citra,Sari,citra.sari@technova.com,0878506716572,Female,Finance,Finance Supervisor,11200000,2023-11-25,Bandung,34
+74,Fitri,Puspita,fitri.puspita@technova.com,08528498776,Female,Marketing,Marketing Staff,6450000,2018-09-07,Bandung,29
+75,Yoga,Gunawan,yoga.gunawan@technova.com,089653147379,Male,Sales,Senior Sales Executive,9050000,2022-04-10,Surabaya,33
+76,Indah,Maharani,indah.maharani@technova.com,0896650752735,Female,Marketing,Marketing Supervisor,11200000,2019-01-25,Medan,36
+77,Dedi,Saputra,dedi.saputra@technova.com,081849480831,Male,Operations,Operations Coordinator,7800000,2019-06-17,Semarang,32
+78,Budi,Putra,budi.putra@technova.com,0817678377701,Male,Sales,Sales Executive,7300000,2019-09-26,Yogyakarta,28
+79,Budi,Nugroho,budi.nugroho@technova.com,08186349578,Male,Operations,Operations Staff,5250000,2024-10-30,Medan,23
+80,Wulan,Putri,wulan.putri@technova.com,087868557444,Female,Operations,Operations Staff,5900000,2019-01-11,Jakarta,28
+81,Siti,Anggraini,siti.anggraini@technova.com,08173518233,Female,Sales,Sales Representative,6150000,2018-12-01,Bandung,29
+82,Yoga,Wibowo,yoga.wibowo@technova.com,085398941343,Male,Operations,Operations Supervisor,10200000,2023-11-29,Jakarta,32
+83,Lestari,Anggraini,lestari.anggraini@technova.com,08194082400,Female,IT,Senior Software Engineer,10950000,2022-10-30,Jakarta,29
+84,Nadia,Putri,nadia.putri@technova.com,087827109477,Female,HR,HR Supervisor,10350000,2024-06-06,Jakarta,35
+85,Citra,Hayati,citra.hayati@technova.com,085320471167,Female,Marketing,Marketing Supervisor,10400000,2023-11-17,Medan,30
+86,Agus,Hakim,agus.hakim@technova.com,0812022941318,Male,HR,HR Specialist,7000000,2025-03-28,Medan,23
+87,Budi,Pratama,budi.pratama@technova.com,0852993867749,Male,Sales,Sales Supervisor,10250000,2024-05-01,Bandung,36
+88,Wulan,Anggraini,wulan.anggraini@technova.com,085299091334,Female,Marketing,Marketing Supervisor,11150000,2018-06-04,Semarang,31
+89,Eko,Gunawan,eko.gunawan@technova.com,08212328120,Male,Operations,Logistics Staff,6300000,2021-08-09,Surabaya,26
+90,Rina,Putri,rina.putri@technova.com,085297403447,Female,Sales,Sales Executive,6750000,2022-01-30,Jakarta,25
+91,Dewi,Sari,dewi.sari@technova.com,0812349361832,Female,Operations,Logistics Staff,6000000,2021-09-27,Jakarta,26
+92,Wulan,Maharani,wulan.maharani@technova.com,08181024994,Female,Operations,Operations Supervisor,10200000,2023-09-14,Jakarta,34
+93,Joko,Saputra,joko.saputra@technova.com,08537464887,Male,Sales,Sales Representative,5100000,2025-06-04,Surabaya,24
+94,Gilang,Santoso,gilang.santoso2@technova.com,08539065940,Male,Sales,Senior Sales Executive,8800000,2023-01-13,Surabaya,32
+95,Reza,Kurniawan,reza.kurniawan2@technova.com,08129904902,Male,Finance,Accountant,7150000,2024-10-12,Surabaya,27
+96,Ayu,Maharani,ayu.maharani@technova.com,0853742967175,Female,Sales,Sales Executive,6550000,2022-11-27,Bandung,27
+97,Indra,Santoso,indra.santoso2@technova.com,085251256746,Male,Finance,Accounting Staff,6000000,2021-07-29,Jakarta,28
+98,Nanda,Wulandari,nanda.wulandari@technova.com,08787154516,Female,Finance,Accountant,7350000,2024-02-26,Semarang,24
+99,Gita,Maharani,gita.maharani@technova.com,08788760385,Female,Sales,Sales Representative,5000000,2025-02-01,Jakarta,27
+100,Nanda,Rahma,nanda.rahma@technova.com,089670348247,Female,Sales,Sales Representative,5650000,2022-05-19,Jakarta,32

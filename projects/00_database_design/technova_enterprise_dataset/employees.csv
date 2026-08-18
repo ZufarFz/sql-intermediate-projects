@@ -1,0 +1,111 @@
+﻿employee_id,first_name,last_name,email,phone_number,gender,department_id,job_title,salary,hire_date,city_id,age
+EMP-00001,Aldi,Pratama,aldi.pratama@technova.com,08210433218,Male,DEP-00001,Operations Staff,6150000,2018-04-13,CTY-00003,29
+EMP-00002,Nanda,Putri,nanda.putri@technova.com,0812600133890,Female,DEP-00002,Sales Representative,5150000,2024-04-17,CTY-00004,25
+EMP-00003,Lestari,Rahma,lestari.rahma@technova.com,08788637940,Female,DEP-00003,HR Staff,6300000,2019-01-15,CTY-00002,28
+EMP-00004,Joko,Setiawan,joko.setiawan@technova.com,0813654235116,Male,DEP-00001,Operations Coordinator,7150000,2024-06-22,CTY-00002,27
+EMP-00005,Hendra,Kurniawan,hendra.kurniawan@technova.com,081259407816,Male,DEP-00003,Recruiter,6650000,2020-12-29,CTY-00001,27
+EMP-00006,Indra,Hidayat,indra.hidayat@technova.com,0812495931034,Male,DEP-00003,HR Supervisor,10500000,2021-01-01,CTY-00003,33
+EMP-00007,Eko,Sutrisno,eko.sutrisno@technova.com,08121647525,Male,DEP-00003,HR Supervisor,10350000,2024-07-18,CTY-00002,29
+EMP-00008,Indra,Nugroho,indra.nugroho@technova.com,08194192832,Male,DEP-00004,Marketing Supervisor,10600000,2023-12-08,CTY-00004,35
+EMP-00009,Rizky,Wijaya,rizky.wijaya@technova.com,085348350305,Male,DEP-00001,Operations Coordinator,7300000,2023-08-13,CTY-00005,25
+EMP-00010,Yanti,Puspita,yanti.puspita@technova.com,085213953767,Female,DEP-00003,HR Supervisor,10950000,2018-03-21,CTY-00006,32
+EMP-00011,Aldi,Santoso,aldi.santoso@technova.com,081323884969,Male,DEP-00004,Content Specialist,7150000,2020-12-21,CTY-00001,27
+EMP-00012,Aldi,Nugroho,aldi.nugroho@technova.com,085232871012,Male,DEP-00003,HR Staff,5350000,2024-08-06,CTY-00001,29
+EMP-00013,Putri,Hayati,putri.hayati@technova.com,08216916697,Female,DEP-00002,Sales Executive,6550000,2024-05-27,CTY-00006,23
+EMP-00014,Eko,Prabowo,eko.prabowo@technova.com,087880184514,Male,DEP-00001,Operations Staff,6250000,2018-09-06,CTY-00001,29
+EMP-00015,Dimas,Wibowo,dimas.wibowo@technova.com,08527048281,Male,DEP-00004,Marketing Staff,6150000,2018-07-27,CTY-00001,29
+EMP-00016,Aditya,Santoso,aditya.santoso@technova.com,082189325288,Male,DEP-00004,Digital Marketing Specialist,8250000,2022-09-29,CTY-00003,26
+EMP-00017,Agus,Saputra,agus.saputra@technova.com,0811570154303,Male,DEP-00002,Sales Executive,7150000,2018-08-21,CTY-00001,29
+EMP-00018,Agus,Sutrisno,agus.sutrisno@technova.com,08961718227,Male,DEP-00004,Digital Marketing Specialist,8350000,2020-12-04,CTY-00001,28
+EMP-00019,Gita,Larasati,gita.larasati@technova.com,08784896383,Female,DEP-00005,System Administrator,8650000,2020-05-23,CTY-00001,29
+EMP-00020,Nanda,Hayati,nanda.hayati@technova.com,081857871331,Female,DEP-00001,Operations Coordinator,6900000,2025-06-10,CTY-00003,31
+EMP-00021,Siti,Larasati,siti.larasati@technova.com,08199839301,Female,DEP-00004,Digital Marketing Specialist,8550000,2018-07-28,CTY-00001,29
+EMP-00022,Dimas,Putra,dimas.putra@technova.com,08213105183,Male,DEP-00005,Database Administrator,9800000,2019-09-03,CTY-00006,29
+EMP-00023,Hendra,Hidayat,hendra.hidayat@technova.com,0818738299737,Male,DEP-00005,Software Engineer,8550000,2024-04-12,CTY-00006,24
+EMP-00024,Rafi,Santoso,rafi.santoso@technova.com,08521165667,Male,DEP-00005,Senior Software Engineer,11750000,2018-06-08,CTY-00001,34
+EMP-00025,Kartika,Maharani,kartika.maharani@technova.com,0811106513338,Female,DEP-00003,HR Specialist,7200000,2025-03-12,CTY-00004,25
+EMP-00026,Indra,Santoso,indra.santoso@technova.com,08536247317,Male,DEP-00003,HR Supervisor,10050000,2024-10-19,CTY-00006,31
+EMP-00027,Budi,Budiman,budi.budiman@technova.com,08780801326,Male,DEP-00003,HR Specialist,6900000,2025-06-10,CTY-00005,23
+EMP-00028,Fitri,Utami,fitri.utami@technova.com,085336026064,Female,DEP-00002,Senior Sales Executive,8850000,2022-07-22,CTY-00004,32
+EMP-00029,Dedi,Kurniawan,dedi.kurniawan@technova.com,085368723430,Male,DEP-00006,Accounting Staff,6200000,2021-03-08,CTY-00003,28
+EMP-00030,Reza,Kurniawan,reza.kurniawan@technova.com,0896805009788,Male,DEP-00004,Content Specialist,6850000,2022-04-22,CTY-00001,27
+EMP-00031,Indra,Hidayat,indra.hidayat2@technova.com,08138121913,Male,DEP-00004,Content Specialist,6600000,2023-03-19,CTY-00004,26
+EMP-00032,Mega,Puspita,mega.puspita@technova.com,08529399091,Female,DEP-00002,Sales Supervisor,10000000,2025-01-11,CTY-00002,29
+EMP-00033,Indah,Putri,indah.putri@technova.com,0852998543534,Female,DEP-00001,Logistics Staff,6150000,2020-05-26,CTY-00002,27
+EMP-00034,Yanti,Sari,yanti.sari@technova.com,08524751079,Female,DEP-00004,Marketing Staff,5900000,2021-12-11,CTY-00002,26
+EMP-00035,Aditya,Saputra,aditya.saputra@technova.com,08961838425,Male,DEP-00001,Operations Supervisor,10900000,2019-11-08,CTY-00001,36
+EMP-00036,Nanda,Lestari,nanda.lestari@technova.com,08125427849,Female,DEP-00003,HR Supervisor,10600000,2021-09-02,CTY-00001,31
+EMP-00037,Bambang,Setiawan,bambang.setiawan@technova.com,0821084124118,Male,DEP-00001,Operations Staff,4900000,2025-04-23,CTY-00006,29
+EMP-00038,Mega,Putri,mega.putri@technova.com,081349353487,Female,DEP-00003,HR Specialist,7800000,2019-11-19,CTY-00001,29
+EMP-00039,Nanda,Permana,nanda.permana@technova.com,08181640052,Female,DEP-00001,Operations Coordinator,7050000,2024-09-25,CTY-00002,29
+EMP-00040,Indra,Wibowo,indra.wibowo@technova.com,082127868011,Male,DEP-00001,Operations Supervisor,10900000,2019-09-19,CTY-00001,34
+EMP-00041,Rina,Permana,rina.permana@technova.com,0813059826204,Female,DEP-00003,HR Supervisor,10950000,2020-09-25,CTY-00006,35
+EMP-00042,Gilang,Saputra,gilang.saputra@technova.com,08195331586,Male,DEP-00003,HR Staff,5500000,2023-10-18,CTY-00001,29
+EMP-00043,Aldi,Gunawan,aldi.gunawan@technova.com,0896232260256,Male,DEP-00004,Content Specialist,6900000,2021-06-08,CTY-00001,27
+EMP-00044,Joko,Kurniawan,joko.kurniawan@technova.com,0821342160733,Male,DEP-00001,Logistics Staff,6000000,2021-07-16,CTY-00001,26
+EMP-00045,Eko,Hakim,eko.hakim@technova.com,085343303654,Male,DEP-00003,Recruiter,6500000,2021-05-23,CTY-00003,27
+EMP-00046,Mega,Rahma,mega.rahma@technova.com,081258685014,Female,DEP-00004,Marketing Supervisor,10800000,2021-10-27,CTY-00005,35
+EMP-00047,Lestari,Hayati,lestari.hayati@technova.com,0813401965569,Female,DEP-00003,HR Staff,5850000,2020-10-13,CTY-00002,27
+EMP-00048,Dedi,Prabowo,dedi.prabowo@technova.com,08786934060,Male,DEP-00002,Sales Representative,5050000,2024-11-02,CTY-00006,30
+EMP-00049,Mega,Larasati,mega.larasati@technova.com,0878356159514,Female,DEP-00002,Sales Supervisor,10500000,2021-04-07,CTY-00001,29
+EMP-00050,Hendra,Santoso,hendra.santoso@technova.com,087865648236,Male,DEP-00001,Logistics Staff,6250000,2020-12-24,CTY-00003,27
+EMP-00051,Sari,Wulandari,sari.wulandari@technova.com,082129946804,Female,DEP-00002,Sales Supervisor,10350000,2022-11-29,CTY-00005,36
+EMP-00052,Diah,Putri,diah.putri@technova.com,08186995777,Female,DEP-00005,Data Analyst,9600000,2019-12-19,CTY-00002,28
+EMP-00053,Nanda,Larasati,nanda.larasati@technova.com,08218721489,Female,DEP-00001,Operations Staff,6000000,2019-10-21,CTY-00003,28
+EMP-00054,Eko,Sutrisno,eko.sutrisno2@technova.com,08193433200,Male,DEP-00005,Database Administrator,9350000,2024-02-01,CTY-00002,24
+EMP-00055,Aditya,Kurniawan,aditya.kurniawan@technova.com,081791769367,Male,DEP-00004,Marketing Supervisor,11000000,2019-05-13,CTY-00003,36
+EMP-00056,Intan,Lestari,intan.lestari@technova.com,08522016328,Female,DEP-00001,Operations Coordinator,7400000,2023-09-16,CTY-00002,24
+EMP-00057,Citra,Permana,citra.permana@technova.com,08538317278,Female,DEP-00004,Digital Marketing Specialist,8000000,2023-09-11,CTY-00005,24
+EMP-00058,Andi,Hakim,andi.hakim@technova.com,0878579868727,Male,DEP-00002,Sales Supervisor,10400000,2023-02-09,CTY-00001,34
+EMP-00059,Joko,Nugroho,joko.nugroho@technova.com,085334873471,Male,DEP-00006,Financial Analyst,9100000,2019-02-16,CTY-00006,28
+EMP-00060,Nanda,Sari,nanda.sari@technova.com,08184558122,Female,DEP-00004,Marketing Staff,6000000,2021-09-07,CTY-00004,29
+EMP-00061,Agus,Saputra,agus.saputra2@technova.com,081723166587,Male,DEP-00001,Operations Staff,5450000,2022-12-23,CTY-00005,25
+EMP-00062,Yoga,Santoso,yoga.santoso@technova.com,08523669096,Male,DEP-00001,Logistics Staff,6400000,2019-11-28,CTY-00001,29
+EMP-00063,Eko,Nugroho,eko.nugroho@technova.com,08535466889,Male,DEP-00001,Operations Staff,5400000,2023-03-21,CTY-00003,24
+EMP-00064,Nanda,Sari,nanda.sari2@technova.com,081734670656,Female,DEP-00005,Junior Software Engineer,7550000,2022-04-12,CTY-00002,25
+EMP-00065,Bambang,Hidayat,bambang.hidayat@technova.com,081329806990,Male,DEP-00006,Accountant,7250000,2024-12-18,CTY-00004,28
+EMP-00066,Nadia,Lestari,nadia.lestari@technova.com,0812627204653,Female,DEP-00004,Content Specialist,6950000,2020-04-02,CTY-00001,27
+EMP-00067,Eka,Sari,eka.sari@technova.com,085356464170,Female,DEP-00006,Finance Supervisor,11250000,2024-04-01,CTY-00006,30
+EMP-00068,Aldi,Nugroho,aldi.nugroho2@technova.com,08785310033,Male,DEP-00006,Finance Supervisor,12150000,2018-04-13,CTY-00001,36
+EMP-00069,Gilang,Santoso,gilang.santoso@technova.com,0811232719374,Male,DEP-00006,Accountant,7650000,2022-05-11,CTY-00001,26
+EMP-00070,Kartika,Maharani,kartika.maharani2@technova.com,08199912419,Female,DEP-00004,Marketing Supervisor,11050000,2020-08-25,CTY-00001,34
+EMP-00071,Bambang,Budiman,bambang.budiman@technova.com,081196631931,Male,DEP-00005,Data Analyst,9100000,2021-09-28,CTY-00002,28
+EMP-00072,Eko,Putra,eko.putra@technova.com,0818919058651,Male,DEP-00006,Accountant,7250000,2024-01-22,CTY-00001,23
+EMP-00073,Citra,Sari,citra.sari@technova.com,0878506716572,Female,DEP-00006,Finance Supervisor,11200000,2023-11-25,CTY-00002,34
+EMP-00074,Fitri,Puspita,fitri.puspita@technova.com,08528498776,Female,DEP-00004,Marketing Staff,6450000,2018-09-07,CTY-00002,29
+EMP-00075,Yoga,Gunawan,yoga.gunawan@technova.com,089653147379,Male,DEP-00002,Senior Sales Executive,9050000,2022-04-10,CTY-00003,33
+EMP-00076,Indah,Maharani,indah.maharani@technova.com,0896650752735,Female,DEP-00004,Marketing Supervisor,11200000,2019-01-25,CTY-00004,36
+EMP-00077,Dedi,Saputra,dedi.saputra@technova.com,081849480831,Male,DEP-00001,Operations Coordinator,7800000,2019-06-17,CTY-00005,32
+EMP-00078,Budi,Putra,budi.putra@technova.com,0817678377701,Male,DEP-00002,Sales Executive,7300000,2019-09-26,CTY-00006,28
+EMP-00079,Budi,Nugroho,budi.nugroho@technova.com,08186349578,Male,DEP-00001,Operations Staff,5250000,2024-10-30,CTY-00004,23
+EMP-00080,Wulan,Putri,wulan.putri@technova.com,087868557444,Female,DEP-00001,Operations Staff,5900000,2019-01-11,CTY-00001,28
+EMP-00081,Siti,Anggraini,siti.anggraini@technova.com,08173518233,Female,DEP-00002,Sales Representative,6150000,2018-12-01,CTY-00002,29
+EMP-00082,Yoga,Wibowo,yoga.wibowo@technova.com,085398941343,Male,DEP-00001,Operations Supervisor,10200000,2023-11-29,CTY-00001,32
+EMP-00083,Lestari,Anggraini,lestari.anggraini@technova.com,08194082400,Female,DEP-00005,Senior Software Engineer,10950000,2022-10-30,CTY-00001,29
+EMP-00084,Nadia,Putri,nadia.putri@technova.com,087827109477,Female,DEP-00003,HR Supervisor,10350000,2024-06-06,CTY-00001,35
+EMP-00085,Citra,Hayati,citra.hayati@technova.com,085320471167,Female,DEP-00004,Marketing Supervisor,10400000,2023-11-17,CTY-00004,30
+EMP-00086,Agus,Hakim,agus.hakim@technova.com,0812022941318,Male,DEP-00003,HR Specialist,7000000,2025-03-28,CTY-00004,23
+EMP-00087,Budi,Pratama,budi.pratama@technova.com,0852993867749,Male,DEP-00002,Sales Supervisor,10250000,2024-05-01,CTY-00002,36
+EMP-00088,Wulan,Anggraini,wulan.anggraini@technova.com,085299091334,Female,DEP-00004,Marketing Supervisor,11150000,2018-06-04,CTY-00005,31
+EMP-00089,Eko,Gunawan,eko.gunawan@technova.com,08212328120,Male,DEP-00001,Logistics Staff,6300000,2021-08-09,CTY-00003,26
+EMP-00090,Rina,Putri,rina.putri@technova.com,085297403447,Female,DEP-00002,Sales Executive,6750000,2022-01-30,CTY-00001,25
+EMP-00091,Dewi,Sari,dewi.sari@technova.com,0812349361832,Female,DEP-00001,Logistics Staff,6000000,2021-09-27,CTY-00001,26
+EMP-00092,Wulan,Maharani,wulan.maharani@technova.com,08181024994,Female,DEP-00001,Operations Supervisor,10200000,2023-09-14,CTY-00001,34
+EMP-00093,Joko,Saputra,joko.saputra@technova.com,08537464887,Male,DEP-00002,Sales Representative,5100000,2025-06-04,CTY-00003,24
+EMP-00094,Gilang,Santoso,gilang.santoso2@technova.com,08539065940,Male,DEP-00002,Senior Sales Executive,8800000,2023-01-13,CTY-00003,32
+EMP-00095,Reza,Kurniawan,reza.kurniawan2@technova.com,08129904902,Male,DEP-00006,Accountant,7150000,2024-10-12,CTY-00003,27
+EMP-00096,Ayu,Maharani,ayu.maharani@technova.com,0853742967175,Female,DEP-00002,Sales Executive,6550000,2022-11-27,CTY-00002,27
+EMP-00097,Indra,Santoso,indra.santoso2@technova.com,085251256746,Male,DEP-00006,Accounting Staff,6000000,2021-07-29,CTY-00001,28
+EMP-00098,Nanda,Wulandari,nanda.wulandari@technova.com,08787154516,Female,DEP-00006,Accountant,7350000,2024-02-26,CTY-00005,24
+EMP-00099,Gita,Maharani,gita.maharani@technova.com,08788760385,Female,DEP-00002,Sales Representative,5000000,2025-02-01,CTY-00001,27
+EMP-00100,Nanda,Rahma,nanda.rahma@technova.com,089670348247,Female,DEP-00002,Sales Representative,5650000,2022-05-19,CTY-00001,32
+EMP-00101,Andi,Supri,andi.supri101@technova.com,087662354819,Male,DEP-00007,Customer Success Lead,13483652,2024-11-24,CTY-00002,38
+EMP-00102,Jelita,Lusia,jelita.lusia102@technova.com,085174165757,Female,DEP-00007,Customer Success Lead,6487205,2025-09-04,CTY-00003,26
+EMP-00103,Nita,Ningsih,nita.ningsih103@technova.com,082861459187,Female,DEP-00007,Customer Success Specialist,8836288,2024-06-09,CTY-00013,32
+EMP-00104,Laksmi,Komalasari,laksmi.komalasari104@technova.com,086191034189,Female,DEP-00007,Customer Success Specialist,9210048,2018-09-08,CTY-00008,32
+EMP-00105,Lili,Amanda,lili.amanda105@technova.com,081191012646,Female,DEP-00007,Customer Success Lead,9178832,2023-12-15,CTY-00010,36
+EMP-00106,Bari,Didi,bari.didi106@technova.com,085380836042,Male,DEP-00008,Product Specialist,11104624,2025-02-04,CTY-00010,38
+EMP-00107,Istri,Darmastuti,istri.darmastuti107@technova.com,085333300151,Female,DEP-00008,Product Specialist,6594241,2022-09-28,CTY-00003,24
+EMP-00108,Kartika,Anindya,kartika.anindya108@technova.com,088989813175,Female,DEP-00008,Product Analyst,10202281,2024-08-04,CTY-00007,23
+EMP-00109,Hana,Bernadeth,hana.bernadeth109@technova.com,084368498389,Female,DEP-00008,Product Specialist,7053972,2023-06-05,CTY-00009,36
+EMP-00110,Citra,Eka,citra.eka110@technova.com,088115670900,Female,DEP-00008,Product Analyst,13533445,2025-03-12,CTY-00009,31
