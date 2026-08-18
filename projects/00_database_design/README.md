@@ -477,7 +477,7 @@ Requirements:
 
 Install `tqdm`:
 
-```
+```python
 pip install tqdm
 ```
 
@@ -525,7 +525,7 @@ This order ensures that referenced records already exist when Foreign Keys are i
 
 After importing the dataset, check the number of records in each table.
 
-```
+```sql
 SELECT 'countries' AS table_name, COUNT(*) AS row_count FROM countries
 UNION ALL
 SELECT 'cities', COUNT(*) FROM cities
