@@ -180,7 +180,7 @@ More details about the dataset, database structure, generation process, and vali
 This project uses:
 
 * **PostgreSQL** — Database and SQL dialect
-* **DBeaver** — SQL development and database management
+* **pgAdmin 4** — PostgreSQL database management and SQL development
 * **Python** — Synthetic dataset generation
 * **Git** — Version control
 * **GitHub** — Project documentation and portfolio
@@ -333,8 +333,8 @@ This repository continues the learning path with relational databases, multi-tab
 
 | Lesson | Topic | Status |
 |--------|-------|--------|
-| 00 | Database Design | ⏳ In Progress |
-| 01 | CASE | ⏳ |
+| 00 | Database Design | ✅ Completed |
+| 01 | CASE | ⏳ In Progress |
 | 02 | Advance Functions | ⏳ |
 | 03 | JOIN | ⏳ |
 | 04 | Multiple JOIN | ⏳ |
